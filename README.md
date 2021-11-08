@@ -1,1 +1,1 @@
-# practica-javascript
+# geometric figures
